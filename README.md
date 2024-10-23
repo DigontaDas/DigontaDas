@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Digonto Das</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
-
+<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F713917-slow-head-nod-the-office-gif&psig=AOvVaw1xVljawheqaMu_7fbjSsph&ust=1729774755459000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjohcPHpIkDFQAAAAAdAAAAABAE" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digontodas&label=Profile%20views&color=0e75b6&style=flat" alt="digontodas" /> </p>
 
 - 🔭 I’m currently working on [Scatch](https://github.com/DigontoDas/scatch)
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="in/digonto-das-836117241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digonto das" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ur_gentleman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ur_gentleman" height="30" width="40" /></a>
 </p>
 
