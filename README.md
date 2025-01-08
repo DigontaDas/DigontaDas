@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **none**
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **Three.js**
 
@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=digontadas&show_icons=true&locale=en&layout=compact" alt="digontadas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digontadas&" alt="digontadas" /></p>
+
