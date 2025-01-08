@@ -4,7 +4,7 @@
 <img align="right" alt="office" width="400" src="https://25.media.tumblr.com/tumblr_m09plvItq51rqfhi2o1_400.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digontadas&label=Profile%20views&color=0e75b6&style=flat" alt="digontadas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digontadas" alt="digontadas" /></a> </p>
+
 
 - 🔭 I’m currently working on **none**
 
