@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Three.js & Machine Learning**
 
 - 🌱 I’m currently learning **Three.js**
 
