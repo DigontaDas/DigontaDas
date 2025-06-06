@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **REACT & 3D Tile Neural Network & OpenCV**
+- 🔭 I’m currently working on **REACT <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> & 3D Tile Neural Network & OpenCV**
 
 - 🌱 I’m currently learning **REACT**
 
