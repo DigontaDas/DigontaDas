@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Three.js & Machine Learning**
+- 🔭 I’m currently working on **REACT & 3D Tile Neural Network & OpenCV**
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **REACT**
 
 - 💬 Ask me about **Javascript,Python,DSA,Html,Css,SQL**
 
