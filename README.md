@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **REACT <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> & 3D Tile Neural Network & OpenCV <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> </a>**
+- 🔭 I’m currently working on **</a> & 3D Tile Convulational Neural Network & OpenCV <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> </a>**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **3D Tile CNN**
 
 - 💬 Ask me about **Javascript,Python,DSA,Html,Css,SQL**
 
