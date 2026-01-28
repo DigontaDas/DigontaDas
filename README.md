@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **</a>3D Tile Convulational Neural Network & Image Processing using Tensorflow & OpenCV <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> </a>**
+- 🔭 I’m currently working on **</a>3D Tile Convulational Neural Network & Image Processing <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> </a>**
 
 - 🌱 I’m currently learning **3D Tile CNN**
 
