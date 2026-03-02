@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 <img align="right" alt="office" width="400" src="https://25.media.tumblr.com/tumblr_m09plvItq51rqfhi2o1_400.gif" >
-<p align="left"> <img src="Logo.png" alt="digontadas" /> </p>
+<p align="left"> <img src="Name.png" alt="digontadas" /> </p>
 
 
 
