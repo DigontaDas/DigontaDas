@@ -1,29 +1,133 @@
-<h1 align="center">Hi 👋, I'm Digonta Das</h1>
-<h3 align="center">A passionate Programmer from Bangladesh</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:1E90FF&height=200&section=header&text=Digonta%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20ML%20Researcher%20%7C%20Web%20Developer&descAlignY=58&descSize=18&descColor=93C5FD" width="100%" />
+</div>
 
-<img align="right" alt="office" width="400" src="https://25.media.tumblr.com/tumblr_m09plvItq51rqfhi2o1_400.gif" >
-<p align="left"> <img src="Name.png" alt="digontadas" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;4th+Year+CSE+%40+BRAC+University+%F0%9F%8E%93;3D+Tile+CNN+Researcher+%F0%9F%AB%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Aspiring+PhD+Student+%F0%9F%8C%8D" />
+</h1>
 
-
-
-- 🔭 I’m currently working on **</a>3D Tile Convulational Neural Network & Image Processing <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> </a>**
-
-- 🌱 I’m currently learning **3D Tile CNN**
-
-- 💬 Ask me about **Javascript,Python,DSA,Html,Css,SQL**
-
-- 📫 How to reach me **digontadas0171@gmail.com**
-  
-- Visit My website **https://digonta-das.vercel.app**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/ur_gentleman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ur_gentleman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/digonta-das-836117241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digonta das" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/University-BRAC%20University-1E90FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/From-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Research%20Collaboration-1E90FF?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 🧠 About Me
 
+```python
+digonta = {
+    "name"        : "Digonta Das",
+    "university"  : "BRAC University — CSE (4th Year)",
+    "thesis"      : "Efficient Coronary Artery Blockage Detection via 3D Tile CNN",
+    "dataset"     : "121 MRI + 160 CT Scans (Ibrahim Cardiac & Bangladesh Medical Hospital)",
+    "web_dev"     : ["React", "Node.js", "Express", "MongoDB", "TailwindCSS"],
+    "ml_tools"    : ["PyTorch", "OpenCV", "scikit-learn", "Pandas", "Seaborn"],
+    "languages"   : ["Python", "JavaScript", "SQL"],
+    "goal"        : "Masters / PhD in the UK 🇬🇧",
+    "fun_fact"    : "I debug neural nets by day and build UIs by night 🌙",
+}
+```
 
+---
+
+## 🔬 Current Focus
+
+🧬 **Thesis** — Detecting coronary artery blockages using 3D Tile CNN on real CT/MRI data  
+🏥 **Data Collection** — Partnered with Ibrahim Cardiac & Bangladesh Medical Hospital  
+🌐 **Web Dev** — Building full-stack projects with MERN stack  
+📚 **Learning** — Deep Learning architectures, 3D image segmentation, medical AI  
+✈️ **Future** — Aiming for funded Masters/PhD in the UK  
+📫 **Contact** — digontadas0171@gmail.com  
+🌍 **Portfolio** — [digonta-das.vercel.app](https://digonta-das.vercel.app)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:digontadas0171@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/digonta-das-836117241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/ur_gentleman" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://digonta-das.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&theme=dark" />
+
+### 🤖 ML / AI / Data Science
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=digontadas0171&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=digontadas0171&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digontadas0171&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=ffffff" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=digontadas0171&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1E90FF&line=1E90FF&point=ffffff&area=true&area_color=1E90FF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💻 LeetCode Journey
+
+<div align="center">
+  <a href="https://leetcode.com/ur_gentleman" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ur_gentleman?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=digontadas0171&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=digontadas0171&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile Views" />
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:0D1B2A,100:000000&height=100&section=footer" width="100%"/>
+</div>
