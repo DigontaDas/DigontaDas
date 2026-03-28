@@ -174,23 +174,6 @@ Currently focused on:
 
 ---
 
-## 💻 LeetCode Journey
-
-<div align="center">
-  <a href="https://leetcode.com/ur_gentleman" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ur_gentleman?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DigontaDas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
