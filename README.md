@@ -117,7 +117,7 @@ digonta = {
 Currently focused on:
 - 3D Tile CNN thesis completion
 - Whisper AI app at IntelliVerse
-- UK application portfolio building
+
 
 `Stay tuned 👀`
 
