@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;CSE+4th+Year+%40+BRAC+University+%F0%9F%8E%93;AI+Developer+Intern+%40+IntelliVerse+%F0%9F%92%BC;3D+Tile+CNN+Cardiac+Researcher+%F0%9F%AB%80;MERN+Stack+Engineer+%F0%9F%92%BB;Future+AI+Engineer+%F0%9F%8C%8D%F0%9F%87%AC%F0%9F%87%A7" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;CSE+4th+Year+%40+BRAC+University+%F0%9F%8E%93;AI+Developer+Intern+%40+IntelliVerse+%F0%9F%92%BC;3D+Tile+CNN+Cardiac+Researcher+%F0%9F%AB%80;MERN+Stack+&+AI+Engineer+%F0%9F%92%BB;Future+AI+Engineer+%F0%9F%8C%8D%F0%9F%87%AC%F0%9F%87%A7" />
 </h1>
 
 <p align="center">
