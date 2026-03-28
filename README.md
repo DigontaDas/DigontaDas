@@ -28,7 +28,6 @@ digonta = {
     "web_stack"      : ["React", "Node.js", "Express.js", "FastAPI", "MongoDB", "PostgreSQL", "MySQL"],
     "ml_tools"       : ["PyTorch", "TensorFlow", "OpenCV", "3D CNN", "WHISPER-API", "Numpy", "Pandas"],
     "languages"      : ["Python", "JavaScript", "C", "Kotlin"],
-    "future_goal"    : "Masters / PhD in the UK 🇬🇧",
     "fun_fact"       : "I segment CT volumes before breakfast and ship REST APIs before dinner 🫀💻",
 }
 ```
