@@ -156,7 +156,7 @@ Currently focused on:
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgresql&theme=dark" />
 
 ### 🤖 AI / ML / Computer Vision
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -164,7 +164,7 @@ Currently focused on:
 <img src="https://img.shields.io/badge/WHISPER%20API-OpenAI-white?style=for-the-badge" />
 
 ### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,n8n,linux&theme=dark" />
 
 </div>
 
