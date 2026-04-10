@@ -105,7 +105,7 @@ digonta = {
 ### 🩺 Skin Disease Detection & LLM Advisor
 [![GitHub](https://img.shields.io/badge/GitHub-Skin__Disease__AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Skin_Disease_AI)
 
-- **EfficientNet-B0** transfer learning model for skin disease classification across **10 disease classes**
+- **RESNET-50** transfer learning model for skin disease classification across **10 disease classes**
 - Integrated **Gemini Flash LLM** for AI-powered recommendations and next-step medical advice
 - REST API built with **FastAPI** + interactive **Gradio UI** frontend
 - **80.64% validation accuracy** — Dockerized and synced to Hugging Face
