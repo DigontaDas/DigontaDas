@@ -136,7 +136,7 @@ using **SQLite**.
 
 </td>
 </tr>
-<tr>
+
 <td width="50%">
   
 ### 🎮 SAW — A Game of Your Survival
@@ -149,7 +149,6 @@ using **SQLite**.
 `C++` `OpenGL` `Game Dev` `Computer Graphics`
 
 </td>
-</tr>
 <tr>
 <td width="50%">
 
