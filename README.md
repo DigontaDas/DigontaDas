@@ -101,7 +101,7 @@ digonta = {
 
 </td>
 </tr>
-<tr>
+
 <td width="50%">
 
 ### 🩺 Skin Disease Detection & LLM Advisor
@@ -115,7 +115,7 @@ digonta = {
 `PyTorch` `EfficientNet` `FastAPI` `Gemini LLM` `Gradio` `Docker`
 
 </td>
-</tr>
+
 <td width="50%">
   
 ### 🎬 Movie Recommendation AI (RAG Pipeline)
@@ -147,7 +147,6 @@ using **SQLite**.
 `C++` `OpenGL` `Game Dev` `Computer Graphics`
 
 </td>
-<tr>
 <td width="50%">
 
 ### 🔭 More Coming Soon...
@@ -159,7 +158,6 @@ Currently focused on:
 `Stay tuned 👀`
 
 </td>
-</tr>
 </table>
 
 ---
