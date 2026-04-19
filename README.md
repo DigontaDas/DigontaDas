@@ -182,7 +182,7 @@ Currently focused on:
 <img src="https://img.shields.io/badge/WHISPER%20API-OpenAI-white?style=for-the-badge" />
 
 ### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux&theme=dark" />
 
 </div>
 
