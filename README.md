@@ -115,7 +115,10 @@ digonta = {
 `PyTorch` `EfficientNet` `FastAPI` `Gemini LLM` `Gradio` `Docker`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
+  
 ### 🎬 Movie Recommendation AI (RAG Pipeline)
 [![GitHub](https://img.shields.io/badge/GitHub-Movie__Recommendation__AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Movie-Recommendation-AI)
 
@@ -132,7 +135,10 @@ using **SQLite**.
 `ChromaDB`, `Sentence Transformers`, `Ollama`, `FastAPI`, `MERN`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
+  
 ### 🎮 SAW — A Game of Your Survival
 [![GitHub](https://img.shields.io/badge/GitHub-SAW%20Game-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/SAW)
 
