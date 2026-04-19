@@ -116,7 +116,28 @@ digonta = {
 
 </td>
 <td width="50%">
+ |  | GitHub
+• 
+• 
+• 
+• 
+### 🎬 Movie Recommendation AI (RAG Pipeline)
+[![GitHub](https://img.shields.io/badge/GitHub-Skin__Disease__AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Movie-Recommendation-AI)
 
+- Built a full **Retrieval-Augmented Generation (RAG)** system combining semantic vector search with LLM-based
+re-ranking for intelligent movie recommendations.
+- Encoded **3,000+** movie metadata into embeddings using sentence-transformers and stored them in ChromaDB for
+efficient similarity search.
+- Implemented a multi-stage pipeline: **query embedding → vector retrieval → LLM re-ranking using Ollama (LLaMA)**
+for contextual recommendations with explanations.
+- Developed a modular backend architecture with **FastAPI**, including logging, config management, and persistent storage
+using **SQLite**.
+- Frontend has *MERN* to create the website Interface and store user data 
+
+`ChromaDB`, `Sentence Transformers`, `Ollama`, `FastAPI`, `MERN`
+
+</td>
+<td width="50%">
 ### 🎮 SAW — A Game of Your Survival
 [![GitHub](https://img.shields.io/badge/GitHub-SAW--Game-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/SAW)
 
