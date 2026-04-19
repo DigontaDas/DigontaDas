@@ -117,7 +117,7 @@ digonta = {
 </td>
 <td width="50%">
 ### 🎬 Movie Recommendation AI (RAG Pipeline)
-[![GitHub](https://img.shields.io/badge/GitHub-Movie%20Recommendation%20AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Movie-Recommendation-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-Movie__Recommendation__AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Movie-Recommendation-AI)
 
 - Built a full **Retrieval-Augmented Generation (RAG)** system combining semantic vector search with LLM-based
 re-ranking for intelligent movie recommendations.
