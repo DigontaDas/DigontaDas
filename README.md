@@ -117,7 +117,7 @@ digonta = {
 </td>
 <td width="50%">
 ### 🎬 Movie Recommendation AI (RAG Pipeline)
-[![GitHub](https://img.shields.io/badge/GitHub-Movie-Recommendation-AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Movie-Recommendation-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-Movie%20Recommendation%20AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Movie-Recommendation-AI)
 
 - Built a full **Retrieval-Augmented Generation (RAG)** system combining semantic vector search with LLM-based
 re-ranking for intelligent movie recommendations.
@@ -134,7 +134,7 @@ using **SQLite**.
 </td>
 <td width="50%">
 ### 🎮 SAW — A Game of Your Survival
-[![GitHub](https://img.shields.io/badge/GitHub-SAW--Game-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/SAW)
+[![GitHub](https://img.shields.io/badge/GitHub-SAW%20Game-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/SAW)
 
 - OpenGL-based horror-survival game inspired by the SAW franchise
 - Answer questions correctly to unlock the key box — wrong answers = lose a limb 🪓
