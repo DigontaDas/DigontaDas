@@ -116,7 +116,6 @@ digonta = {
 
 </td>
 </tr>
-<tr>
 <td width="50%">
   
 ### 🎬 Movie Recommendation AI (RAG Pipeline)
@@ -132,10 +131,9 @@ for contextual recommendations with explanations.
 using **SQLite**.
 - Frontend has *MERN* to create the website Interface and store user data 
 
-`ChromaDB`, `Sentence Transformers`, `Ollama`, `FastAPI`, `MERN`
+`ChromaDB` `Sentence Transformers` `Ollama` `FastAPI` `MERN`
 
 </td>
-</tr>
 
 <td width="50%">
   
