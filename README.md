@@ -116,13 +116,8 @@ digonta = {
 
 </td>
 <td width="50%">
- |  | GitHub
-• 
-• 
-• 
-• 
 ### 🎬 Movie Recommendation AI (RAG Pipeline)
-[![GitHub](https://img.shields.io/badge/GitHub-Skin__Disease__AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Movie-Recommendation-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-Movie-Recommendation-AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Movie-Recommendation-AI)
 
 - Built a full **Retrieval-Augmented Generation (RAG)** system combining semantic vector search with LLM-based
 re-ranking for intelligent movie recommendations.
