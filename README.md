@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;CSE+4th+Year+%40+BRAC+University+%F0%9F%8E%93;3D+Tile+CNN+Cardiac+Researcher+%F0%9F%AB%80;MERN+Stack+Engineer+%F0%9F%92%BB;Future+AI+Engineer+%F0%9F%8C%8D%F0%9F%87%AC%F0%9F%87%A7" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;CSE+4th+Year+%40+BRAC+University+%F0%9F%8E%93;3D+Tile+CNN+Cardiac+Researcher+%F0%9F%AB%80;AI Developer+%F0%9F%92%BB;Future+AI+Engineer+%F0%9F%8C%8D%F0%9F%87%AC%F0%9F%87%A7" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@ digonta = {
     "name"           : "Digonta Das",
     "university"     : "BRAC University — BSc. CSE (4th Year)",
     "gpa"            : 3.6,
-    "current_role"   : "AI Developer Intern @ IntelliVerse (Remote) 💼",
+    "Previous_role"   : "AI Developer Intern @ IntelliVerse (Remote) 💼",
     "thesis"         : "Efficient 3D Tiled CNN for Coronary Artery Stenosis Detection",
     "dataset"        : "121 MRI + 160 CT Scans — Ibrahim Cardiac & Bangladesh Medical Hospital",
     "web_stack"      : ["React", "Node.js", "Express.js", "FastAPI", "MongoDB", "PostgreSQL", "MySQL"],
@@ -30,7 +30,7 @@ digonta = {
     "languages"      : ["Python", "JavaScript", "C", "Kotlin"],
     "deployment"     : ["Docker", "Hugging Face"],
     "Automation"     : ["n8n"],
-    "Goal"           : "AI Automation Engineer"
+    "Goal"           : "AI Engineer"
     "fun_fact"       : "I segment CT volumes before breakfast and ship REST APIs before dinner 🫀💻",
 }
 ```
