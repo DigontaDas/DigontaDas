@@ -137,14 +137,16 @@ using **SQLite**.
 <tr>
 <td width="50%">
   
-### 🎮 SAW — A Game of Your Survival
-[![GitHub](https://img.shields.io/badge/GitHub-SAW%20Game-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/SAW)
+### 🤱 MaSheba AI (মা-সেবা) — Offline-First Maternal Health Platform
+[![GitHub](https://img.shields.io/badge/GitHub-MaSheba--AI-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/MaSheba--AI)
 
-- OpenGL-based horror-survival game inspired by the SAW franchise
-- Answer questions correctly to unlock the key box — wrong answers = lose a limb 🪓
-- 4 questions + time limit mechanics; escape by unlocking the door
+- Offline-first AI maternal health assistant for **Community Health Workers** in rural Bangladesh
+- On-device **ONNX/XGBoost** risk scoring model with LLM cascade: Groq LLaMA 3.1 → Gemini Flash → offline fallback
+- **Supabase + pgvector** RAG pipeline with a 6-stage Bangla safety filter
+- React Native/Expo + SQLite WAL mode + outbox pattern sync + FastAPI backend
+- 🏆 **Finalist — Infinity AI BuildFest 2026**
 
-`C++` `OpenGL` `Game Dev` `Computer Graphics`
+`React Native` `FastAPI` `ONNX` `XGBoost` `Supabase` `pgvector` `Groq`
 
 </td>
 <td width="50%">
