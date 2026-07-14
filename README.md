@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:1E90FF&height=200&section=header&text=Digonta%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20BRAC%20University%20%7C%20AI%20Researcher%20%7C%20MERN%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=93C5FD" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:1E90FF&height=200&section=header&text=Digonta%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20BRAC%20University%20%7C%20AI%20Researcher%20%7C%20APPLIED%20AI%20Engineer&descAlignY=58&descSize=18&descColor=93C5FD" width="100%" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;CSE+4th+Year+%40+BRAC+University+%F0%9F%8E%93;3D+Tile+CNN+Cardiac+Researcher+%F0%9F%AB%80;AI Developer+%F0%9F%92%BB;Future+AI+Engineer+%F0%9F%8C%8D%F0%9F%87%AC%F0%9F%87%A7" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=4000&color=1E90FF&lines=Hey+There!+%F0%9F%91%8B+I'm+Digonta+Das;CSE+4th+Year+%40+BRAC+University+%F0%9F%8E%93;3D+Tile+CNN+Cardiac+Researcher+%F0%9F%AB%80;AI Developer+%F0%9F%92%BB;Applied+AI+Engineer+%F0%9F%8C%8D%F0%9F%87%AC%F0%9F%87%A7" />
 </h1>
 
 <p align="center">
@@ -29,8 +29,8 @@ digonta = {
     "ml_tools"       : ["PyTorch", "TensorFlow", "OpenCV", "3D CNN", "WHISPER-API", "Numpy", "Pandas"],
     "languages"      : ["Python", "JavaScript", "C", "Kotlin"],
     "deployment"     : ["Docker", "Hugging Face"],
-    "Automation"     : ["n8n"],
-    "Goal"           : "AI Engineer"
+    "Automation"     : ["n8n","Make"],
+    "Goal"           : "Applied AI Engineer"
     "fun_fact"       : "I segment CT volumes before breakfast and ship REST APIs before dinner 🫀💻",
 }
 ```
@@ -38,10 +38,10 @@ digonta = {
 ---
 
 ## 💼 Professional Experience
+###  Frontend AI Engineer — FlyRank *(Remote | 1 July 2026 – 1 August 2026)*
+###  AI Developer Intern — IntelliVerse *(Remote | March 2026 – May 2026)*
 
-### 🤖 AI Developer Intern — IntelliVerse *(Remote | March 2026 – May 2026)*
-
-> Building an intelligent **Whisper-based voice application** using OpenAI's WHISPER-API for speech-to-text and AI-driven language processing pipelines.
+> Building an intelligent **X-Ray Detection Model using 3.7 Million Data** using Vision Models, Llama 3.0 and LoRA.
 
 <p>
   <img src="https://img.shields.io/badge/Role-AI%20Developer%20Intern-1E90FF?style=flat-square" />
