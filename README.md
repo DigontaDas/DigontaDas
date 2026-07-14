@@ -38,7 +38,7 @@ digonta = {
 ---
 
 ## 💼 Professional Experience
-###  Frontend AI Engineer — FlyRank *(Remote | 1 July 2026 – 1 August 2026)*
+###  Frontend AI Engineer Intern — FlyRank *(Remote | 1 July 2026 – 1 August 2026)*
 ###  AI Developer Intern — IntelliVerse *(Remote | March 2026 – May 2026)*
 
 > Building an intelligent **X-Ray Detection Model using 3.7 Million Data** using Vision Models, Llama 3.0 and LoRA.
