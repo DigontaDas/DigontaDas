@@ -40,7 +40,7 @@ digonta = {
 ## 💼 Professional Experience
 ###  AI Developer Intern — IntelliVerse *(Remote | March 2026 – May 2026)*
 
-> Building an intelligent **X-Ray Detection Model using 3.7 Million Data** using Vision Models, Llama 3.0 and LoRA.
+> worked with whisper AI to build an App that user can use to get the transcript from an youtube video or any video
 
 <p>
   <img src="https://img.shields.io/badge/Role-Frontend%20AI%20Engineer-1E90FF?style=flat-square" />
