@@ -45,7 +45,7 @@ digonta = {
 <p>
   <img src="https://img.shields.io/badge/Role-Frontend%20AI%20Engineer-1E90FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Type-Remote-0D1B2A?style=flat-square&labelColor=1E90FF" />
-  <img src="https://img.shields.io/badge/Status-Currently%20Deactive%20%F0%9F%9F%A2-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Currently%20Deactive%20%F0%9F%9F%A2-failure?style=flat-square" />
 </p>
 
 ---
