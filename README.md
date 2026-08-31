@@ -30,7 +30,7 @@ digonta = {
     "languages"      : ["Python", "JavaScript", "C", "Kotlin"],
     "deployment"     : ["Docker", "Hugging Face"],
     "Automation"     : ["n8n","Make"],
-    "Goal"           : "Applied AI Engineer"
+    "Goal"           : "Applied AI Engineer",
     "fun_fact"       : "I segment CT volumes before breakfast and ship REST APIs before dinner 🫀💻",
 }
 ```
@@ -148,6 +148,21 @@ using **SQLite**.
 </td>
 <td width="50%">
 
+### 💰 Clarity — B2B Invoice Discounting Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Clarity-1E90FF?style=flat-square&logo=github)](https://github.com/DigontaDas/Clarity)
+
+- B2B marketplace tackling 90–120 day invoice payment delays for SMEs via verified receivable financing
+- Guarded state-machine invoice pipeline: Submitted → Buyer Confirmed → Funded → Payout
+- Row-level `SELECT ... FOR UPDATE` locking prevents double-funding in the funder marketplace
+- No-ORM philosophy — raw `pg` SQL for optimized queries, plus OCR-based invoice ingestion via Cloudinary
+
+`React` `Node.js` `Express.js` `Supabase` `PostgreSQL` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🔭 More Coming Soon...
 Currently focused on:
 - 3D Tile CNN thesis completion
@@ -155,6 +170,9 @@ Currently focused on:
 - AI Automation Engineer
 
 `Stay tuned 👀`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -190,12 +208,12 @@ Currently focused on:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DigontaDas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DigontaDas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DigontaDas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigontaDas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DigontaDas&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DigontaDas&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
