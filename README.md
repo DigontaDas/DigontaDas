@@ -74,21 +74,21 @@ digonta = {
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="assets/certs/edupro-round1.jpg" width="100%"/>
+<img src="edupro-round1.jpg" width="100%"/>
 <br/>
 <b>Edupro Global Green Talent Awards 2026</b><br/>Round 1 Achievement
 <br/>
 <sub>with University of Leeds · Team Jagotic Moho · May 2026</sub>
 </td>
 <td width="33%" align="center">
-<img src="assets/certs/edupro-round2.jpg" width="100%"/>
+<img src="edupro-round2.jpg" width="100%"/>
 <br/>
 <b>Edupro Global Green Talent Awards 2026</b><br/>Round 2 Participation
 <br/>
 <sub>with University of Leeds · Team Jagotic Moho · Jun 2026</sub>
 </td>
 <td width="33%" align="center">
-<img src="assets/certs/infinity-ai-buildfest.jpg" width="100%"/>
+<img src="infinity-ai-buildfest.jpg" width="100%"/>
 <br/>
 <b>The Infinity AI BuildFest 2026</b><br/>Preliminary Round
 <br/>
