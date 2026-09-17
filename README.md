@@ -245,14 +245,17 @@ Currently focused on:
   <a href="mailto:digontadas0171@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/digonta-das-836117241" target="_blank">
+  <a href="https://www.linkedin.com/in/digonta-das-836117241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/ur_gentleman" target="_blank">
+  <a href="https://leetcode.com/u/Ur_Gentleman/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://digonta-das.vercel.app" target="_blank">
+  <a href="https://digonta-das.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/digonta.das.37/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
