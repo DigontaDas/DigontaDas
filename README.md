@@ -9,9 +9,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:digontadas0171@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/digonta-das-836117241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -36,6 +33,7 @@
 ```python
 digonta = {
     "name"           : "Digonta Das",
+    "My Main Mail"    : "digontadas0171@gmail.com" 
     "university"     : "BRAC University — BSc. CSE (4th Year)",
     "Previous_role"   : "AI Developer Intern @ IntelliVerse (Remote) 💼",
     "thesis"         : "Efficient 3D Tiled CNN for Coronary Artery Stenosis Detection",
