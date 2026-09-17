@@ -4,6 +4,29 @@
 
 
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:digontadas0171@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/digonta-das-836117241/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Ur_Gentleman/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://digonta-das.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/digonta.das.37/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+
 
 
 ---
@@ -235,29 +258,6 @@ Currently focused on:
   <img src="https://streak-stats.demolab.com/?user=DigontaDas&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
-
----
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:digontadas0171@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/digonta-das-836117241/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Ur_Gentleman/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://digonta-das.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/digonta.das.37/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
 
 ---
 
