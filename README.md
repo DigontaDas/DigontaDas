@@ -3,6 +3,9 @@
 </div>
 
 
+- **Main Portfolio (3D)**: [digonta-das.vercel.app](https://digonta-das.vercel.app/)
+- **Interactive RPG Portfolio**: [digontadas.github.io/Pixel-Game-Portfolio](https://digontadas.github.io/Pixel-Game-Portfolio/)
+- **RPG Portfolio Source**: [GitHub repository](https://github.com/DigontaDas/Pixel-Game-Portfolio)
 
 ---
 
