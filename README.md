@@ -3,7 +3,7 @@
 </div>
 
 <td width="33%" align="center">
-<img src="portfolio.png" width="80%"/>
+<img src="portfolio.png" width="100%"/>
 </td>
 
 - **Main Portfolio (3D)**: [digonta-das.vercel.app](https://digonta-das.vercel.app/)
