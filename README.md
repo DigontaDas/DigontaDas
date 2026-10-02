@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:1E90FF&height=200&section=header&text=Digonta%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20BRAC%20University%20%7C%20Medical%20Vision%20Researcher%20%7C%20Applied%20AI%20Engineer&descAlignY=58&descSize=18&descColor=93C5FD" width="100%" />
 </div>
+
 - **Main Portfolio (3D)**: [digonta-das.vercel.app](https://digonta-das.vercel.app/)
 - **Interactive RPG Portfolio**: [digonta-das.vercel.app](https://pixel-game-portfolio-nine.vercel.app)
+
 <td width="33%" align="center">
 <img src="portfolio.png" width="100%"/>
 </td>
