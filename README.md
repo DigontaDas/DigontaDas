@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://digonta-das.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=red" />
+    <img src="https://img.shields.io/badge/AI-Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=red" />
   </a>
   <a href="https://pixel-game-portfolio-nine.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Game-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Developer-Portfolio-Game-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/digonta.das.37/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
