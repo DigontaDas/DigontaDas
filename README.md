@@ -24,7 +24,7 @@
 </p>
 
 <td width="33%" align="center">
-<img src="trainer.png" width="100%"/>
+<img src="trainer.png" width="50%"/>
 </td>
 
 
