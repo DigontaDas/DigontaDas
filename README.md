@@ -27,9 +27,6 @@
 
 
 
-
----
-
 ## 🧠 About Me
 
 ```python
